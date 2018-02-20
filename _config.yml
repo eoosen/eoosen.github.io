@@ -6,7 +6,7 @@
 name: Eric Oosenbrug
 
 # Short bio or description (displayed in the header)
-description: Just some guy trying to get by in the world
+description: dot com
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: oosenbrug@gmail.com
-  facebook: 
+  facebook:
   flickr:
   github: eoosen
   instagram: eoosen
